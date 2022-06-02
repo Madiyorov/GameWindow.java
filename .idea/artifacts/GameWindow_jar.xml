@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameWindow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameWindow_jar</output-path>
+    <root id="archive" name="GameWindow.jar">
+      <element id="module-output" name="GameWindow" />
+    </root>
+  </artifact>
+</component>
